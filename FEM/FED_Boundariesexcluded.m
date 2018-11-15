@@ -1,8 +1,9 @@
+%Ensure that you have changed func.m and gunc.m to your choice of functions.
+
 clear all
 format long
 
 tab=zeros(7,8);
-
 call=zeros(7,1);
 
 
